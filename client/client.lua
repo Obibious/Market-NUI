@@ -1,13 +1,9 @@
 local isOpen = false
-local ESX = exports["base"]:getSharedObject()
-local wait = 0
+
 local function toggleNuiFrame(shouldShow)
   SetNuiFocus(shouldShow, shouldShow)
   SendReactMessage('setVisible', shouldShow)
 end
-
-
-
 
 
 
