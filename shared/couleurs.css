@@ -1,0 +1,13 @@
+:root {
+    --color-text-secondary: #fbbf24;
+    --color-hover: #f59e0b;
+
+    --color-btn-cash: #10b981;
+    --color-btn-cash-hover: #059669;
+
+    --color-btn-card: #3b82f6;
+    --color-btn-card-hover: #2563eb;
+
+    --color-btn-cancel: #ef4444;
+    --color-btn-cancel-hover: #dc2626;
+}
